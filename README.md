@@ -1,4 +1,13 @@
 ### Hi there 👋
+### Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Hariprasath!
+
+---
+
+A Software Developer in an Enterprise world. Experience with the technologies listed below.
+Exploring Azure right now. Love AWS though.
+
+
+👯 I’m looking to collaborate and learn System Design. Hit me up.
 
 <!--
 **hariprasath-r/hariprasath-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
