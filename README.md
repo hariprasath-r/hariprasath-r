@@ -1,13 +1,18 @@
-### Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Hariprasath!
+## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Hariprasath!
 
 ---
 
-A Software Developer in an Enterprise world. Experience with the technologies you see down below.
+A Software Developer in this Enterprise world. Experience with the technologies you see down below.
 
-Exploring Azure right now. Love AWS though.
+- 🔭 Currently working on Spring Boot, PCF
 
+- 🌱 Exploring Azure, Docker right now. Love AWS though.
 
-👯 I’m looking to collaborate and learn System Design. Hit me up.
+- 👯 I’m looking to collaborate and learn System Design. Hit me up.
+
+- 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/hariprasath-r/)
+
+- 💬 Ask me about **Java, Spring Boot, AWS**
 
 ---
 
