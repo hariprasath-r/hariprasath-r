@@ -1,4 +1,4 @@
-## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Hariprasath!
+### Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Hariprasath!
 
 ---
 
@@ -22,9 +22,9 @@ A Software Developer in this Enterprise world. Experience with the technologies 
 
 ---
 
-## &#x1f4c8; Checkout My GitHub Stats 
+### &#x1f4c8; Checkout My GitHub Stats 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hariprasath-r&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hariprasath-r&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Hariprasath's GitHub stats](https://github-readme-stats.vercel.app/api?username=hariprasath-r&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
