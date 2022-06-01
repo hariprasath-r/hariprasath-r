@@ -6,7 +6,7 @@ A Software Developer in this Enterprise world. Experience with the technologies 
 
 - 🔭 Currently working on Spring Boot, PCF
 
-- 🌱 Exploring Azure, Docker right now. Love AWS though.
+- 🌱 Exploring GCP, Docker & Kubernetes right now. Love AWS though.
 
 - 👯 I’m looking to collaborate and learn System Design. Hit me up.
 
